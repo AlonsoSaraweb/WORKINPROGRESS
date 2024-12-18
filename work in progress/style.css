@@ -1,0 +1,42 @@
+html{
+    background-color: antiquewhite;
+}
+body{
+    font-family: 'Jersey 15', serif;
+    
+}
+
+h1{
+    color: #1520A6;
+    font-size: 8vw;
+    margin: 7vw;
+}
+h4{
+    color:red;
+    text-align: right;
+    margin: 1vw;
+    
+}
+a{
+    text-decoration: none;
+}
+h3{
+    color: #1520A6;
+    font-size: 5vw;
+    margin: 8vw;
+}
+
+h5{
+    color: #1520A6;
+    text-align: center;
+    text-anchor: end;
+}
+
+img .h4{
+    display: inline-block;
+    align-items: right;
+    width: 10vw;
+    height: auto;
+  
+
+}
