@@ -1,5 +1,5 @@
 html{
-    background-color: antiquewhite;
+    background-color: #e1d4c2;
 }
 body{
     font-family: 'Jersey 15', serif;
@@ -12,6 +12,7 @@ h1{
     margin: 7vw;
 }
 h4{
+    text-overflow: inherit;
     color:red;
     text-align: right;
     margin: 1vw;
@@ -22,8 +23,9 @@ a{
 }
 h3{
     color: #1520A6;
-    font-size: 5vw;
+    font-size: 3vw;
     margin: 8vw;
+    margin-bottom: 0;
 }
 
 h5{
@@ -31,12 +33,27 @@ h5{
     text-align: center;
     text-anchor: end;
 }
-
-img .h4{
-    display: inline-block;
-    align-items: right;
-    width: 10vw;
-    height: auto;
-  
-
+p{
+    color:red;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
 }
+
+.video1 {
+    margin-top: 5vw;
+    margin-left: 8vw;
+    width: auto;
+    height: auto;
+}
+
+.imagenTFG{
+    margin-top: 5vw;
+    margin-left: 8vw;
+    width: 23vw;
+    height: auto;
+    align-items: center;
+}
+
+
+

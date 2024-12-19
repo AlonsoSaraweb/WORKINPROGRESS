@@ -1,0 +1,18 @@
+html{
+    background-color: #e1d4c2;
+}
+body{
+    font-family: 'Jersey 15', serif;
+    
+}
+h2{
+    margin-left:2vw;
+    margin-bottom: 0;
+}
+p{
+    color:black;
+    margin-left: 2vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
