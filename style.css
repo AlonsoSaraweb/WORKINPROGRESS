@@ -1,15 +1,15 @@
 html{
-    background-color: #e1d4c2;
+    background-color: #f3e4c4;
 }
 body{
     font-family: 'Jersey 15', serif;
-    
+    margin: 5vw;
 }
 
 h1{
-    color: #1520A6;
-    font-size: 8vw;
-    margin: 7vw;
+    color: #1e2ad3;
+    font-size: 15vw;
+   
 }
 h4{
     text-overflow: inherit;
@@ -22,22 +22,28 @@ a{
     text-decoration: none;
 }
 h3{
-    color: #1520A6;
-    font-size: 3vw;
-    margin: 8vw;
+    color: #1e2ad3;
+    font-size: 5vw;
+    margin-top: 4vw;
     margin-bottom: 0;
 }
 
 h5{
-    color: #1520A6;
+    color: #1e2ad3;
     text-align: center;
-    text-anchor: end;
+    text-anchor:end;
+    margin-top:8vw;
+    margin-bottom: 0;
+    
 }
 p{
     color:red;
     margin-top: 0;
     margin-bottom: 0;
-    text-align: center;
+    text-align: left;
+    margin-left: 4vw;
+    font-size: 3vw;
+
 }
 
 .video1 {
@@ -46,13 +52,17 @@ p{
     width: auto;
     height: auto;
 }
-
+.texto-final{
+    text-align: right;
+    margin-right: 2vw;
+}
 .imagenTFG{
-    margin-top: 5vw;
-    margin-left: 8vw;
-    width: 23vw;
-    height: auto;
+    display: inline-block;
     align-items: center;
+    margin-left: 9vw;
+    width: 25%;
+    height: auto;
+    
 }
 
 
