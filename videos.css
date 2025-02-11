@@ -1,0 +1,42 @@
+html{
+    background-color: #f3e4c4;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Jersey 15', serif;
+    margin: 5vw;
+}
+
+a{
+    text-decoration: none;
+}
+h3{
+    color: #1e2ad3;
+    font-size: 5vw;
+    margin-top: 4vw;
+    margin-bottom: 0;
+}
+
+.volg{
+    width: max-content;
+    height: auto;
+}
+.content{
+    display:grid;
+    grid-template-columns: 
+    repeat(auto-fit, 300px);
+    gap:15px;
+    justify-content: center;
+    margin-top: 5vw;
+   
+   
+}  
+
+
+
+.texto-final{
+    text-align: right;
+    margin-right: 2vw;
+}
+
+

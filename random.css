@@ -1,0 +1,14 @@
+html{
+    background-color: #f3e4c4;
+    box-sizing: border-box;
+}
+    
+body{
+    font-family: 'Jersey 15', serif;
+    margin: 5vw;
+}    
+
+h1{
+    text-align: center;
+}
+
